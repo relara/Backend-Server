@@ -1,0 +1,14 @@
+{
+  "name": "server-node",
+  "version": "1.0.0",
+  "description": "Basic REST API Server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymundo Lara <relvira090916@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^17.7.2"
+  }
+}
