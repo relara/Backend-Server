@@ -22,7 +22,9 @@
     "joi": "^17.6.0",
     "morgan": "^1.10.0",
     "node": "^17.7.2",
-    "prisma": "^3.11.1"
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0",
+    "prisma.schema": "^3.11.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
